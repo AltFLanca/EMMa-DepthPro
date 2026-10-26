@@ -1,7 +1,7 @@
 [project]
 name = "emma-depthpro"
 version = "0.1.0"
-description = "Add your description here"
+description = "Explore monocular depth estimation on EMMa product images using Depth Pro."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
